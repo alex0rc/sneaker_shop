@@ -31,3 +31,4 @@ require_once "../includes/auth-check.php"; // Verifica si es admin
     <script src="../assets/js/dark-mode.js"></script>
 </body>
 </html>
+// Nueva funcionalidad feature4
