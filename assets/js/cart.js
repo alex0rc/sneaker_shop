@@ -82,3 +82,4 @@ function removeItem(index) {
   renderCart();
 }
 // Pequeña mejora en feature2
+// Pequeña mejora en feature2
