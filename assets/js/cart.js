@@ -81,3 +81,4 @@ function removeItem(index) {
   saveCart(cart);
   renderCart();
 }
+// Mejora en feature2
